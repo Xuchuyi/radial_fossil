@@ -1,2 +1,7 @@
 OtherFigureNotebooks/
 .DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+external_data/
+Figure/
